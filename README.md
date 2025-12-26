@@ -12,9 +12,15 @@
 ---
 
 ## 📁 Featured Projects
-### [Textile Export Analytics](https://github.com/TharanElango-Insights/Textile-Export-Analytics)
-*Analysis of fabric waste and order fulfillment trends to optimize inventory.*
-- **Tools:** Excel, SQL, Power BI, Python.
+
+### [Zepto Sales Data Analysis](https://github.com/TharanElango-Insights/Zepto-Sales-Data-Analysis)
+*SQL-based analysis focusing on inventory, pricing strategies, and business profitability.*
+- **Tools:** MySQL, SQL Workbench.
+- **Highlights:** Data cleaning, CTEs, and Profit/Loss insights.
+
+### [Textile Export Analytics (Coming Soon)](#)
+*Analyzing supply chain and inventory trends for a garment export business.*
+- **Tools:** Excel, SQL, Python.
 
 ---
 
