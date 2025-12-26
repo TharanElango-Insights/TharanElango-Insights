@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tharan Elango 👋
+### Data Analyst | Insights & Visualization
 
-<!--
-**TharanElango-Insights/TharanElango-Insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📊 **Current Focus:** Analyzing supply chain and inventory data at **Om Sakthi Garments**.
+- 🛠️ **Tech Stack:** SQL, Python (Pandas/NumPy), Excel (Advanced), Power BI.
+- 🏢 **Experience:** 7 years in IT (QA Analysis & Transaction Processing) at Mastercard & Kohl's,Wipro.
+- 🌱 **Goal:** Turning complex datasets into actionable business strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📁 Featured Projects
+### [Textile Export Analytics](https://github.com/TharanElango-Insights/Textile-Export-Analytics)
+*Analysis of fabric waste and order fulfillment trends to optimize inventory.*
+- **Tools:** Excel, SQL, Power BI, Python.
+
+---
+
+## 📬 Connect with Me
+- **LinkedIn:** [Coming Soon]
+- **Email:** tharanelango.insights@gmail.com
